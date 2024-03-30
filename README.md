@@ -2,7 +2,10 @@
 
 ***Refractor a marketing agency's existing site to make it more accessible.***
 
-![License](https://img.shields.io/badge/License-MIT-pink?style=flat-square&labelColor=3A3B3C&color=F778A1&link=https%3A%2F%2Fchoosealicense.com%2Flicenses%2Fmit%2F) ![GitHub Badge](https://img.shields.io/badge/GitHub-emsim11-blue?style=flat-square&logo=GitHub&labelColor=3A3B3C&color=78E1F7&link=https://github.com/emsim11) [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:emilysiimone11@gmail.com) ![Deployed URL Badge](https://img.shields.io/badge/URL-Code_Refractor-purple?style=flat-square&labelColor=3A3B3C&color=E0ADF7&link=https://emsim11.github.io/Code-Refractor/)
+[![License](https://img.shields.io/badge/License-MIT-pink?style=flat-square&labelColor=3A3B3C&color=F778A1&link=https%3A%2F%2Fchoosealicense.com%2Flicenses%2Fmit%2F)](https://choosealicense.com/licenses/mit/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-emsim11-blue?style=flat-square&logo=GitHub&labelColor=3A3B3C&color=78E1F7&link=https://github.com/emsim11)](https://github.com/emsim11)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:emilysiimone11@gmail.com)
+[![Deployed URL Badge](https://img.shields.io/badge/Deployed_URL-Code_Refractor-purple?style=flat-square&labelColor=3A3B3C&color=E0ADF7&link=https://emsim11.github.io/Code-Refractor/)](https://emsim11.github.io/Code-Refractor/)
 
 [Description](#description) • [Usage](#usage) • [Support](#support) • [Credits](#credits) • [License](#license)
 
@@ -14,7 +17,7 @@
 
 For this project, I applied skills pertaining to HTML, CSS, and Git to enhance the starter code of a marketing agency’s existing site to make it more accessible. Web accessibility is an increasingly important consideration for businesses, as it ensures that people with disabilities can access a website using assistive technologies, such as video captions, image texts, screen readers, and braille keyboards.
 
-Specifically, I implemented code **refractor** to improve the site - without changing its functionality - and to meet the acceptance criteria provided for this on-the-job ticket. I ensured that the codebase is set for long-term sustainability by making sure that all of the links are functioning correctly. In addition, I adhered to the **Scout Rule**, which recommends that you always leave the code a little cleaner than when you found it. I did this by including comments before each element or section of the page to help better explain what the code does. I also reworked the CSS to make it more efficient by consolidating CSS selectors and properties and organized them to follow the semantic structure of the HTML elements.
+Specifically, I implemented code **refractor** to improve the site - without changing its functionality &mdash; - and to meet the acceptance criteria provided for this on-the-job ticket. I ensured that the codebase is set for long-term sustainability by making sure that all of the links are functioning correctly. In addition, I adhered to the **Scout Rule**, which recommends that you always leave the code a little cleaner than when you found it. I did this by including comments before each element or section of the page to help better explain what the code does. I also reworked the CSS to make it more efficient by consolidating CSS selectors and properties and organized them to follow the semantic structure of the HTML elements.
 
 ### User Story
 
