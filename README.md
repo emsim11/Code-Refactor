@@ -27,7 +27,7 @@ Specifically, I implemented code **refactor** to improve the site - without chan
 
 ### User Story
 
-```
+```md
 AS A marketing agency
 
 I WANT a codebase that follows accessibility standards
@@ -37,7 +37,7 @@ SO THAT our own site is optimized for search engines
 
 ### Acceptance Criteria
 
-```
+```md
 GIVEN a webpage meets accessibility standards
 
 WHEN I view the source code
@@ -60,6 +60,8 @@ WHEN I view the title element
 
 THEN I find a concise, descriptive title
 ```
+
+[Back to Top](#code-refactor)
 
 ## Usage
 
