@@ -35,6 +35,8 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
+[Back to Top](#code-refactor)
+
 ### Acceptance Criteria
 
 ```md
@@ -99,10 +101,14 @@ Here are listed the sources that helped make this project possible.
 
 *The following developers helped create this project:*
 
-[Emily Simone](https://github.com/emsim11) - Main Developer
+- Main Developer: [Emily Simone](https://github.com/emsim11)
+
+[Back to Top](#code-refactor)
 
 ## License
 
 &copy; 2024 Emily Simone
 
 This application is licensed under the [MIT License](./LICENSE).
+
+[Back to Top](#code-refactor)
