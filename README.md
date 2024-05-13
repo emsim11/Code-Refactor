@@ -73,9 +73,9 @@ This on-the-job ticket allowed me to implement new skills and refactor code. To 
 
 ### Visuals
 
-![Marketing Agency's Webpage Top Portion](./Assets/Repository%20Visuals/Webpage-Top-Portion.png)
+![Demo of the Marketing Agency's Webpage.](./Assets/Repository%20Visuals/Website-Demo.jpeg)
 
-![Marketing Agency's Webpage Bottom Portion](./Assets/Repository%20Visuals/Webpage-Bottom-Portion.png)
+[Back to Top](#code-refactor)
 
 ## Support
 
